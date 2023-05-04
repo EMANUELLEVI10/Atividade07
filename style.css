@@ -1,0 +1,26 @@
+.frase1{
+         font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.frase2{
+         font-size: larger;      
+}
+
+.frase3{
+         font-style: oblique;
+}
+.frase4{
+         font-weight: bolder;
+}
+.frase5{
+         color: blueviolet;
+}
+.frase6{
+         text-align: center;
+}
+.frase7{
+         text-decoration: line-through;
+}
+.frase8{
+         text-transform: uppercase;
+}
